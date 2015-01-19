@@ -4,52 +4,52 @@
         "short": "best_picture",
         "nominees": [
             {
-                "title": "American Sniper",
+                "detail": "American Sniper",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt2179136/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt2179136/"
             },
             {
-                "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+                "detail": "Birdman or (The Unexpected Virtue of Ignorance)",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt2562232/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt2562232/"
             },
             {
-                "title": "Boyhood",
+                "detail": "Boyhood",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt1065073/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt1065073/"
             },
             {
-                "title": "The Grand Budapest Hotel",
+                "detail": "The Grand Budapest Hotel",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt2278388/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt2278388/"
             },
             {
-                "title": "The Imitation Game",
+                "detail": "The Imitation Game",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt2084970/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt2084970/"
             },
             {
-                "title": "Selma",
+                "detail": "Selma",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt1020072/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt1020072/"
             },
             {
-                "title": "The Theory of Everything",
+                "detail": "The Theory of Everything",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt2980516/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt2980516/"
             },
             {
-                "title": "Whiplash",
+                "detail": "Whiplash",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt2582802/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt2582802/"
             }
         ]
     },
@@ -58,33 +58,33 @@
         "short": "actor_in_a_leading_role",
         "nominees": [
             {
-                "title": "Steve Carell",
+                "detail": "Steve Carell",
                 "image": "",
-                "detail": "Foxcatcher",
+                "title": "Foxcatcher",
                 "imdb": "http://www.imdb.com/name/nm0136797/"
             },
             {
-                "title": "Bradley Cooper",
+                "detail": "Bradley Cooper",
                 "image": "",
-                "detail": "American Sniper",
+                "title": "American Sniper",
                 "imdb": "http://www.imdb.com/name/nm0177896/"
             },
             {
-                "title": "Benedict Cumberbatch",
+                "detail": "Benedict Cumberbatch",
                 "image": "",
-                "detail": "The Imitation Game",
+                "title": "The Imitation Game",
                 "imdb": "http://www.imdb.com/name/nm1212722/"
             },
             {
-                "title": "Michael Keaton",
+                "detail": "Michael Keaton",
                 "image": "",
-                "detail": "Birdman or (The Unexpected Virtue of Ignorance)",
+                "title": "Birdman or (The Unexpected Virtue of Ignorance)",
                 "imdb": "http://www.imdb.com/name/nm0000474/"
             },
             {
-                "title": "Eddie Redmayne",
+                "detail": "Eddie Redmayne",
                 "image": "",
-                "detail": "The Theory of Everything",
+                "title": "The Theory of Everything",
                 "imdb": "http://www.imdb.com/name/nm1519666/"
             }
         ]
@@ -94,33 +94,33 @@
         "short": "actor_in_a_supporting_role",
         "nominees": [
             {
-                "title": "Robert Duvall",
+                "detail": "Robert Duvall",
                 "image": "",
-                "detail": "The Judge",
+                "title": "The Judge",
                 "imdb": "http://www.imdb.com/name/nm0000380/"
             },
             {
-                "title": "Ethan Hawke",
+                "detail": "Ethan Hawke",
                 "image": "",
-                "detail": "American Sniper",
+                "title": "American Sniper",
                 "imdb": "http://www.imdb.com/name/nm0000160/"
             },
             {
-                "title": "Edward Norton",
+                "detail": "Edward Norton",
                 "image": "",
-                "detail": "Birdman or (The Unexpected Virtue of Ignorance)",
+                "title": "Birdman or (The Unexpected Virtue of Ignorance)",
                 "imdb": "http://www.imdb.com/name/nm0001570/"
             },
             {
-                "title": "Mark Ruffalo",
+                "detail": "Mark Ruffalo",
                 "image": "",
-                "detail": "Foxcatcher",
+                "title": "Foxcatcher",
                 "imdb": "http://www.imdb.com/name/nm0749263/"
             },
             {
-                "title": "J.K. Simmons",
+                "detail": "J.K. Simmons",
                 "image": "",
-                "detail": "Whiplash",
+                "title": "Whiplash",
                 "imdb": "http://www.imdb.com/name/nm0799777/"
             }
         ]
@@ -130,33 +130,33 @@
         "short": "actress_in_a_leading_role",
         "nominees": [
             {
-                "title": "Marion Cotillard",
+                "detail": "Marion Cotillard",
                 "image": "",
-                "detail": "Two Days, One Night",
+                "title": "Two Days, One Night",
                 "imdb": "http://www.imdb.com/name/nm0182839/"
             },
             {
-                "title": "Felicity Jones",
+                "detail": "Felicity Jones",
                 "image": "",
-                "detail": "The Theory of Everything",
+                "title": "The Theory of Everything",
                 "imdb": "http://www.imdb.com/name/nm0428065/"
             },
             {
-                "title": "Julianne Moore",
+                "detail": "Julianne Moore",
                 "image": "",
-                "detail": "Still Alice",
+                "title": "Still Alice",
                 "imdb": "http://www.imdb.com/name/nm0000194/"
             },
             {
-                "title": "Rosamund Pike",
+                "detail": "Rosamund Pike",
                 "image": "",
-                "detail": "Gone Girl",
+                "title": "Gone Girl",
                 "imdb": "http://www.imdb.com/name/nm0683253/"
             },
             {
-                "title": "Reese Witherspoon",
+                "detail": "Reese Witherspoon",
                 "image": "",
-                "detail": "Wild",
+                "title": "Wild",
                 "imdb": "http://www.imdb.com/name/nm0000702/"
             }
         ]
@@ -166,33 +166,33 @@
         "short": "actress_in_a_supporting_role",
         "nominees": [
             {
-                "title": "Patricia Arquette",
+                "detail": "Patricia Arquette",
                 "image": "",
-                "detail": "Boyhood",
+                "title": "Boyhood",
                 "imdb": "http://www.imdb.com/name/nm0000099/"
             },
             {
-                "title": "Laura Dern",
+                "detail": "Laura Dern",
                 "image": "",
-                "detail": "Wild",
+                "title": "Wild",
                 "imdb": "http://www.imdb.com/name/nm0000368/"
             },
             {
-                "title": "Emma Stone",
+                "detail": "Emma Stone",
                 "image": "",
-                "detail": "Birdman",
+                "title": "Birdman",
                 "imdb": "http://www.imdb.com/name/nm1297015/"
             },
             {
-                "title": "Keira Knightley",
+                "detail": "Keira Knightley",
                 "image": "",
-                "detail": "The Imitation Game",
+                "title": "The Imitation Game",
                 "imdb": "http://www.imdb.com/name/nm0461136/"
             },
             {
-                "title": "Meryl Streep",
+                "detail": "Meryl Streep",
                 "image": "",
-                "detail": "Into the Woods",
+                "title": "Into the Woods",
                 "imdb": "http://www.imdb.com/name/nm0000658/"
             }
         ]
@@ -202,33 +202,33 @@
         "short": "directing",
         "nominees": [
             {
-                "title": "Alejandro González Iñárritu",
+                "detail": "Alejandro González Iñárritu",
                 "image": "",
-                "detail": "Birdman",
+                "title": "Birdman",
                 "imdb": "http://www.imdb.com/name/nm0327944/"
             },
             {
-                "title": "Richard Linklater",
+                "detail": "Richard Linklater",
                 "image": "",
-                "detail": "Boyhood",
+                "title": "Boyhood",
                 "imdb": "http://www.imdb.com/name/nm0000500/"
             },
             {
-                "title": "Bennett Miller",
+                "detail": "Bennett Miller",
                 "image": "",
-                "detail": "Foxcatcher",
+                "title": "Foxcatcher",
                 "imdb": "http://www.imdb.com/name/nm0587955/"
             },
             {
-                "title": "Wes Anderson",
+                "detail": "Wes Anderson",
                 "image": "",
-                "detail": "The Grand Budapest Hotel",
+                "title": "The Grand Budapest Hotel",
                 "imdb": "http://www.imdb.com/name/nm0027572/"
             },
             {
-                "title": "Morten Tyldum",
+                "detail": "Morten Tyldum",
                 "image": "",
-                "detail": "The Imitation Game",
+                "title": "The Imitation Game",
                 "imdb": "http://www.imdb.com/name/nm0878763/"
             }
         ]
@@ -238,34 +238,34 @@
         "short": "animated_feature_film",
         "nominees": [
             {
-                "title": "Big Hero 6",
+                "detail": "Big Hero 6",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt2245084/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt2245084/"
             },
             {
-                "title": "The Boxtrolls",
+                "detail": "The Boxtrolls",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt0787474/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt0787474/"
             },
             {
-                "title": "How to Train Your Dragon 2",
+                "detail": "How to Train Your Dragon 2",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt1646971/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt1646971/"
             },
             {
-                "title": "Song of the Sea",
+                "detail": "Song of the Sea",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt1865505/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt1865505/"
             },
             {
-                "title": "The Tale of the Princess Kaguya",
+                "detail": "The Tale of the Princess Kaguya",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt2576852/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt2576852/"
             }
         ]
     },
@@ -274,35 +274,35 @@
         "short": "cinematography",
         "nominees": [
             {
-                "title": "Emmanuel Lubezki",
+                "detail": "Emmanuel Lubezki",
                 "image": "",
-                "detail": "Birdman",
+                "title": "Birdman",
                 "imdb": "http://www.imdb.com/name/nm0523881/"
             },
             {
-                "title": "Robert D. Yeoman",
+                "detail": "Robert D. Yeoman",
                 "image": "",
-                "detail": "The Grand Budapest Hotel",
+                "title": "The Grand Budapest Hotel",
                 "imdb": "http://www.imdb.com/name/nm0005934/"
             },
             {
-                "title": "[Lukasz Zal, Ryszard Lynzewski]",
+                "detail": "[Lukasz Zal, Ryszard Lynzewski]",
                 "image": "",
-                "detail": "Ida",
+                "title": "Ida",
                 "imdb": [
                     "http://www.imdb.com/name/nm2617994, http://www.imdb.com/name/nm0501755/"
                 ]
             },
             {
-                "title": "Dick Pope",
+                "detail": "Dick Pope",
                 "image": "",
-                "detail": "Mr. Turner",
+                "title": "Mr. Turner",
                 "imdb": "http://www.imdb.com/name/nm0005836/"
             },
             {
-                "title": "Roger Deakins",
+                "detail": "Roger Deakins",
                 "image": "",
-                "detail": "Unbroken",
+                "title": "Unbroken",
                 "imdb": "http://www.imdb.com/name/nm0005683/"
             }
         ]
@@ -312,33 +312,33 @@
         "short": "costume_design",
         "nominees": [
             {
-                "title": "Milena Canonero",
+                "detail": "Milena Canonero",
                 "image": "",
-                "detail": "The Grand Budapest Hotel",
+                "title": "The Grand Budapest Hotel",
                 "imdb": "http://www.imdb.com/name/nm0134382/"
             },
             {
-                "title": "Mark Bridges",
+                "detail": "Mark Bridges",
                 "image": "",
-                "detail": "Inherent Vice",
+                "title": "Inherent Vice",
                 "imdb": "http://www.imdb.com/name/nm0108775/"
             },
             {
-                "title": "Colleen Atwood",
+                "detail": "Colleen Atwood",
                 "image": "",
-                "detail": "Into the Woods",
+                "title": "Into the Woods",
                 "imdb": "http://www.imdb.com/name/nm0041181/"
             },
             {
-                "title": "Anna B. Sheppard",
+                "detail": "Anna B. Sheppard",
                 "image": "",
-                "detail": "Maleficent",
+                "title": "Maleficent",
                 "imdb": "http://www.imdb.com/name/nm0081318/"
             },
             {
-                "title": "Jacqueline Durran",
+                "detail": "Jacqueline Durran",
                 "image": "",
-                "detail": "Mr. Turner",
+                "title": "Mr. Turner",
                 "imdb": "http://www.imdb.com/name/nm0244330/"
             }
         ]
@@ -348,34 +348,34 @@
         "short": "documentary_feature",
         "nominees": [
             {
-                "title": "Citizenfour",
+                "detail": "Citizenfour",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt4044364/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt4044364/"
             },
             {
-                "title": "Last Days in Vietnam",
+                "detail": "Last Days in Vietnam",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt3279124/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt3279124/"
             },
             {
-                "title": "Virunga",
+                "detail": "Virunga",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt3455224/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt3455224/"
             },
             {
-                "title": "The Salt of the Earth",
+                "detail": "The Salt of the Earth",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt3674140/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt3674140/"
             },
             {
-                "title": "Finding Vivian Maier",
+                "detail": "Finding Vivian Maier",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt2714900/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt2714900/"
             }
         ]
     },
@@ -384,34 +384,34 @@
         "short": "documentary_short_subject",
         "nominees": [
             {
-                "title": "Crisis Hotline: Veterans Press 1",
+                "detail": "Crisis Hotline: Veterans Press 1",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt3449252/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt3449252/"
             },
             {
-                "title": "Joanna",
+                "detail": "Joanna",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt2976354/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt2976354/"
             },
             {
-                "title": "Our Curse",
+                "detail": "Our Curse",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt3455224/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt3455224/"
             },
             {
-                "title": "The Reaper",
+                "detail": "The Reaper",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt3438472/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt3438472/"
             },
             {
-                "title": "White Earth",
+                "detail": "White Earth",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt3044564/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt3044564/"
             }
         ]
     },
@@ -420,36 +420,36 @@
         "short": "film_editing",
         "nominees": [
             {
-                "title": [
+                "detail": [
                     "Joel Cox",
                     "Gary Roach"
                 ],
                 "image": "",
-                "detail": "American Sniper",
+                "title": "American Sniper",
                 "imdb": "http://www.imdb.com/name/nm0134382/"
             },
             {
-                "title": "Sandra Adair",
+                "detail": "Sandra Adair",
                 "image": "",
-                "detail": "Boyhood",
+                "title": "Boyhood",
                 "imdb": "http://www.imdb.com/name/nm0108775/"
             },
             {
-                "title": "Colleen Atwood",
+                "detail": "Colleen Atwood",
                 "image": "",
-                "detail": "The Grand Budapest Hotel",
+                "title": "The Grand Budapest Hotel",
                 "imdb": "http://www.imdb.com/name/nm0041181/"
             },
             {
-                "title": "Anna B. Sheppard",
+                "detail": "Anna B. Sheppard",
                 "image": "",
-                "detail": "The Imitation Game",
+                "title": "The Imitation Game",
                 "imdb": "http://www.imdb.com/name/nm0081318/"
             },
             {
-                "title": "Jacqueline Durran",
+                "detail": "Jacqueline Durran",
                 "image": "",
-                "detail": "Whiplash",
+                "title": "Whiplash",
                 "imdb": "http://www.imdb.com/name/nm0244330/"
             }
         ]
@@ -459,34 +459,34 @@
         "short": "foreign_language_film",
         "nominees": [
             {
-                "title": "Ida",
+                "detail": "Ida",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt2718492/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt2718492/"
             },
             {
-                "title": "Leviathan",
+                "detail": "Leviathan",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt2802154/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt2802154/"
             },
             {
-                "title": "Tangerines",
+                "detail": "Tangerines",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt2991224/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt2991224/"
             },
             {
-                "title": "Timbuktu",
+                "detail": "Timbuktu",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt3409392/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt3409392/"
             },
             {
-                "title": "Wild Tales",
+                "detail": "Wild Tales",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt3011894/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt3011894/"
             }
         ]
     },
@@ -495,33 +495,33 @@
         "short": "adapted_screenplay",
         "nominees": [
             {
-                "title": "Jason Hall",
+                "detail": "Jason Hall",
                 "image": "",
-                "detail": "American Sniper",
+                "title": "American Sniper",
                 "imdb": "http://www.imdb.com/name/nm0355699/"
             },
             {
-                "title": "Graham Moore",
+                "detail": "Graham Moore",
                 "image": "",
-                "detail": "The Imitation Game",
+                "title": "The Imitation Game",
                 "imdb": "http://www.imdb.com/name/nm2441699/"
             },
             {
-                "title": "Paul Thomas Anderson",
+                "detail": "Paul Thomas Anderson",
                 "image": "",
-                "detail": "Inherent Vice",
+                "title": "Inherent Vice",
                 "imdb": "http://www.imdb.com/name/nm0000759/"
             },
             {
-                "title": "Anthony McCarten",
+                "detail": "Anthony McCarten",
                 "image": "",
-                "detail": "The Theory of Everything",
+                "title": "The Theory of Everything",
                 "imdb": "http://www.imdb.com/name/nm0565026/"
             },
             {
-                "title": "Damien Chazelle",
+                "detail": "Damien Chazelle",
                 "image": "",
-                "detail": "Whiplash",
+                "title": "Whiplash",
                 "imdb": "http://www.imdb.com/name/nm3227090/"
             }
         ]
@@ -531,14 +531,14 @@
         "short": "original_screenplay",
         "nominees": [
             {
-                "title": [
+                "detail": [
                     "Alejandro G. Iñárritu",
                     "Nicolás Giacobone",
                     "Alexander Dinelaris Jr.",
                     "Armando Bo"
                 ],
                 "image": "",
-                "detail": "Birdman",
+                "title": "Birdman",
                 "imdb": [
                     "http://www.imdb.com/name/nm0327944/",
                     "http://www.imdb.com/name/nm1481172/",
@@ -547,39 +547,39 @@
                 ]
             },
             {
-                "title": "Richard Linklater",
+                "detail": "Richard Linklater",
                 "image": "",
-                "detail": "Boyhood",
+                "title": "Boyhood",
                 "imdb": "http://www.imdb.com/name/nm0000500/"
             },
             {
-                "title": [
+                "detail": [
                     "E. Maxe Frye",
                     "Dan Futterman"
                 ],
                 "image": "",
-                "detail": "Foxcatcher",
+                "title": "Foxcatcher",
                 "imdb": [
                     "http://www.imdb.com/name/nm0296861/",
                     "http://www.imdb.com/name/nm0001246/"
                 ]
             },
             {
-                "title": [
+                "detail": [
                     "Wes Anderson",
                     "Hugo Guinness"
                 ],
                 "image": "",
-                "detail": "The Grand Budapest Hotel",
+                "title": "The Grand Budapest Hotel",
                 "imdb": [
                     "http://www.imdb.com/name/nm0027572/",
                     "http://www.imdb.com/name/nm2450453/"
                 ]
             },
             {
-                "title": "Dan Gilroy",
+                "detail": "Dan Gilroy",
                 "image": "",
-                "detail": "Nightcrawler",
+                "title": "Nightcrawler",
                 "imdb": "http://www.imdb.com/name/nm0319659/"
             }
         ]
@@ -589,34 +589,34 @@
         "short": "animated_short_film",
         "nominees": [
             {
-                "title": "The Bigger Picture",
+                "detail": "The Bigger Picture",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt3610188/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt3610188/"
             },
             {
-                "title": "The Dam Keeper",
+                "detail": "The Dam Keeper",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt3326262/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt3326262/"
             },
             {
-                "title": "Feast",
+                "detail": "Feast",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt3689498/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt3689498/"
             },
             {
-                "title": "Me and My Moulton",
+                "detail": "Me and My Moulton",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt3946086/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt3946086/"
             },
             {
-                "title": "A Single Life",
+                "detail": "A Single Life",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt3838700/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt3838700/"
             }
         ]
     },
@@ -625,34 +625,34 @@
         "short": "live_action_short_film",
         "nominees": [
             {
-                "title": "Aya",
+                "detail": "Aya",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt2326094/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt2326094/"
             },
             {
-                "title": "Boogaloo and Graham",
+                "detail": "Boogaloo and Graham",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt3612232/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt3612232/"
             },
             {
-                "title": "Butter Lamp (La Lampe au Beurre de Yak)",
+                "detail": "Butter Lamp (La Lampe au Beurre de Yak)",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt2922078/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt2922078/"
             },
             {
-                "title": "Parvaneh",
+                "detail": "Parvaneh",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt3008010/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt3008010/"
             },
             {
-                "title": "The Phone Call",
+                "detail": "The Phone Call",
                 "image": "",
-                "detail": "",
-                "imdb": "http://www.imdb.com/title/tt3071532/"
+                "title": "",
+                "imdb": "http://www.imdb.com/detail/tt3071532/"
             }
         ]
     },
@@ -661,36 +661,36 @@
         "short": "makeup_and_hairstyling",
         "nominees": [
             {
-                "title": [
+                "detail": [
                     "Bill Corso",
                     "Dennis Liddiard"
                 ],
                 "image": "",
-                "detail": "Foxcatcher",
+                "title": "Foxcatcher",
                 "imdb": [
                     "http://www.imdb.com/name/nm0181134/",
                     "http://www.imdb.com/name/nm0509187/"
                 ]
             },
             {
-                "title": [
+                "detail": [
                     "Frances Hannon",
                     "Mark Coulier"
                 ],
                 "image": "",
-                "detail": "The Grand Budapest Hotel",
+                "title": "The Grand Budapest Hotel",
                 "imdb": [
                     "http://www.imdb.com/name/nm0360470/",
                     "http://www.imdb.com/name/nm0183418/"
                 ]
             },
             {
-                "title": [
+                "detail": [
                     "Elizabeth Yianni-Georgiou",
                     "David White"
                 ],
                 "image": "",
-                "detail": "Guardians of the Galaxy",
+                "title": "Guardians of the Galaxy",
                 "imdb": [
                     "http://www.imdb.com/name/nm0947958/",
                     "http://www.imdb.com/name/nm0924675/"
@@ -703,33 +703,33 @@
         "short": "original_score",
         "nominees": [
             {
-                "title": "Alexandre Desplat",
+                "detail": "Alexandre Desplat",
                 "image": "",
-                "detail": "The Grand Budapest Hotel",
+                "title": "The Grand Budapest Hotel",
                 "imdb": "http://www.imdb.com/name/nm0006035/"
             },
             {
-                "title": "Alexandre Desplat",
+                "detail": "Alexandre Desplat",
                 "image": "",
-                "detail": "The Imitation Game",
+                "title": "The Imitation Game",
                 "imdb": "http://www.imdb.com/name/nm0006035/"
             },
             {
-                "title": "Hans Zimmer",
+                "detail": "Hans Zimmer",
                 "image": "",
-                "detail": "Interstellar",
+                "title": "Interstellar",
                 "imdb": "http://www.imdb.com/name/nm0001877/"
             },
             {
-                "title": "Gary Yershon",
+                "detail": "Gary Yershon",
                 "image": "",
-                "detail": "Mr. Turner",
+                "title": "Mr. Turner",
                 "imdb": "http://www.imdb.com/name/nm0947665/"
             },
             {
-                "title": "Jóhann Jóhannsson",
+                "detail": "Jóhann Jóhannsson",
                 "image": "",
-                "detail": "The Theory of Everything",
+                "title": "The Theory of Everything",
                 "imdb": "http://www.imdb.com/name/nm0433580/"
             }
         ]
@@ -739,34 +739,34 @@
         "short": "original_song",
         "nominees": [
             {
-                "title": "Everything Is Awesome",
+                "detail": "Everything Is Awesome",
                 "image": "",
-                "detail": "The Lego Movie",
-                "imdb": "http://www.imdb.com/title/tt1490017/"
+                "title": "The Lego Movie",
+                "imdb": "http://www.imdb.com/detail/tt1490017/"
             },
             {
-                "title": "Glory",
+                "detail": "Glory",
                 "image": "",
-                "detail": "Selma",
-                "imdb": "http://www.imdb.com/title/tt1020072/"
+                "title": "Selma",
+                "imdb": "http://www.imdb.com/detail/tt1020072/"
             },
             {
-                "title": "Grateful",
+                "detail": "Grateful",
                 "image": "",
-                "detail": "Beyond the Lights",
-                "imdb": "http://www.imdb.com/title/tt3125324/"
+                "title": "Beyond the Lights",
+                "imdb": "http://www.imdb.com/detail/tt3125324/"
             },
             {
-                "title": "I’m Not Gonna Miss You",
+                "detail": "I’m Not Gonna Miss You",
                 "image": "",
-                "detail": "Glen Campbell … I’ll Be Me",
-                "imdb": "http://www.imdb.com/title/tt2049586/"
+                "title": "Glen Campbell … I’ll Be Me",
+                "imdb": "http://www.imdb.com/detail/tt2049586/"
             },
             {
-                "title": "Lost Stars",
+                "detail": "Lost Stars",
                 "image": "",
-                "detail": "Begin Again",
-                "imdb": "http://www.imdb.com/title/tt1980929/"
+                "title": "Begin Again",
+                "imdb": "http://www.imdb.com/detail/tt1980929/"
             }
         ]
     },
@@ -775,13 +775,13 @@
         "short": "sound_mixing",
         "nominees": [
             {
-                "title": [
+                "detail": [
                     "John Reitz",
                     "Gregg Rudloff",
                     "Walt Martin"
                 ],
                 "image": "",
-                "detail": "American Sniper",
+                "title": "American Sniper",
                 "imdb": [
                     "http://www.imdb.com/name/nm0718676/",
                     "http://www.imdb.com/name/nm0748832/",
@@ -789,13 +789,13 @@
                 ]
             },
             {
-                "title": [
+                "detail": [
                     "Jon Taylor",
                     "Frank A. Montaño",
                     "Thomas Varga"
                 ],
                 "image": "",
-                "detail": "Birdman or (The Unexpected Virtue of Ignorance)",
+                "title": "Birdman or (The Unexpected Virtue of Ignorance)",
                 "imdb": [
                     "http://www.imdb.com/name/nm0852656/",
                     "http://www.imdb.com/name/nm0599057/",
@@ -803,13 +803,13 @@
                 ]
             },
             {
-                "title": [
+                "detail": [
                     "Gary A. Rizzo",
                     "Gregg Landaker",
                     "Mark Weingarten"
                 ],
                 "image": "",
-                "detail": "Interstellar",
+                "title": "Interstellar",
                 "imdb": [
                     "http://www.imdb.com/name/nm0729886/",
                     "http://www.imdb.com/name/nm0484414/",
@@ -817,13 +817,13 @@
                 ]
             },
             {
-                "title": [
+                "detail": [
                     "Jon Taylor",
                     "Frank A. Montaño",
                     "David Lee"
                 ],
                 "image": "",
-                "detail": "Unbroken",
+                "title": "Unbroken",
                 "imdb": [
                     "http://www.imdb.com/name/nm0852656/",
                     "http://www.imdb.com/name/nm0599057/",
@@ -831,13 +831,13 @@
                 ]
             },
             {
-                "title": [
+                "detail": [
                     "Craig Mann",
                     "Ben Wilkins",
                     "Thomas Curley"
                 ],
                 "image": "",
-                "detail": "Whiplash",
+                "title": "Whiplash",
                 "imdb": [
                     "http://www.imdb.com/name/nm1023649/",
                     "http://www.imdb.com/name/nm0929240/",
@@ -851,54 +851,54 @@
         "short": "sound_editing",
         "nominees": [
             {
-                "title": [
+                "detail": [
                     "Alan Robert Murray",
                     "Bub Asman"
                 ],
                 "image": "",
-                "detail": "American Sniper",
+                "title": "American Sniper",
                 "imdb": [
                     "http://www.imdb.com/name/nm0614812/",
                     "http://www.imdb.com/name/nm0039544/"
                 ]
             },
             {
-                "title": [
+                "detail": [
                     "Martín Hernández",
                     "Aaron Glascock"
                 ],
                 "image": "",
-                "detail": "Birdman or (The Unexpected Virtue of Ignorance)",
+                "title": "Birdman or (The Unexpected Virtue of Ignorance)",
                 "imdb": [
                     "http://www.imdb.com/name/nm0380057/",
                     "http://www.imdb.com/name/nm0321790/"
                 ]
             },
             {
-                "title": [
+                "detail": [
                     "Ben Wilkins",
                     "Jason Canovas"
                 ],
                 "image": "",
-                "detail": "The Hobbit: The Battle of the Five Armies",
+                "title": "The Hobbit: The Battle of the Five Armies",
                 "imdb": [
                     "http://www.imdb.com/name/nm0121151/",
                     "http://www.imdb.com/name/nm0134417/"
                 ]
             },
             {
-                "title": "Richard King",
+                "detail": "Richard King",
                 "image": "",
-                "detail": "Interstellar",
+                "title": "Interstellar",
                 "imdb": "http://www.imdb.com/name/nm0455185/"
             },
             {
-                "title": [
+                "detail": [
                     "Becky Sullivan",
                     "Andrew DeCristofaro"
                 ],
                 "image": "",
-                "detail": "Unbroken",
+                "title": "Unbroken",
                 "imdb": [
                     "http://www.imdb.com/name/nm0167915/",
                     "http://www.imdb.com/name/nm0214014/"
@@ -911,60 +911,60 @@
         "short": "production_design",
         "nominees": [
             {
-                "title": [
+                "detail": [
                     "Adam Stockhausen",
                     "Anna Pinnock"
                 ],
                 "image": "",
-                "detail": "The Grand Budapest Hotel",
+                "title": "The Grand Budapest Hotel",
                 "imdb": [
                     "http://www.imdb.com/name/nm1360914/",
                     "http://www.imdb.com/name/nm0003519/"
                 ]
             },
             {
-                "title": [
+                "detail": [
                     "Maria Djurkovic",
                     "Tatiana Macdonald"
                 ],
                 "image": "",
-                "detail": "The Imitation Game",
+                "title": "The Imitation Game",
                 "imdb": [
                     "http://www.imdb.com/name/nm0229319/",
                     "http://www.imdb.com/name/nm0526248/"
                 ]
             },
             {
-                "title": [
+                "detail": [
                     "Nathan Crowley",
                     "Gary Fettis"
                 ],
                 "image": "",
-                "detail": "Interstellar",
+                "title": "Interstellar",
                 "imdb": [
                     "http://www.imdb.com/name/nm0189769/",
                     "http://www.imdb.com/name/nm0275361/"
                 ]
             },
             {
-                "title": [
+                "detail": [
                     "Dennis Gassner",
                     "Anna Pinnock"
                 ],
                 "image": "",
-                "detail": "Into the Woods",
+                "title": "Into the Woods",
                 "imdb": [
                     "http://www.imdb.com/name/nm0309357/",
                     "http://www.imdb.com/name/nm0003519/"
                 ]
             },
             {
-                "title": [
+                "detail": [
                     "Suzie Davies",
                     "Charlotte Watts"
                 ],
                 "image": "",
-                "detail": "Mr. Turner",
+                "title": "Mr. Turner",
                 "imdb": [
                     "http://www.imdb.com/name/nm0203990/",
                     "http://www.imdb.com/name/nm0915117/"
@@ -977,14 +977,14 @@
         "short": "visual_effects",
         "nominees": [
             {
-                "title": [
+                "detail": [
                     "Dan DeLeeuw",
                     "Russell Earl",
                     "Bryan Grill",
                     "Dan Sudick"
                 ],
                 "image": "",
-                "detail": "Captain America: The Winter Soldier",
+                "title": "Captain America: The Winter Soldier",
                 "imdb": [
                     "http://www.imdb.com/name/nm0216699/",
                     "http://www.imdb.com/name/nm0247270/",
@@ -993,14 +993,14 @@
                 ]
             },
             {
-                "title": [
+                "detail": [
                     "Joe Letteri",
                     "Dan Lemmon",
                     "Daniel Barrett",
                     "Erik Winquist"
                 ],
                 "image": "",
-                "detail": "Dawn of the Planet of the Apes",
+                "title": "Dawn of the Planet of the Apes",
                 "imdb": [
                     "http://www.imdb.com/name/nm0504784/",
                     "http://www.imdb.com/name/nm0501424/",
@@ -1009,14 +1009,14 @@
                 ]
             },
             {
-                "title": [
+                "detail": [
                     "Stephane Ceretti",
                     "Nicolas Aithadi",
                     "Jonathan Fawkner",
                     "Paul Corbould"
                 ],
                 "image": "",
-                "detail": "Guardians of the Galaxy",
+                "title": "Guardians of the Galaxy",
                 "imdb": [
                     "http://www.imdb.com/name/nm0148547/",
                     "http://www.imdb.com/name/nm1212365/",
@@ -1025,14 +1025,14 @@
                 ]
             },
             {
-                "title": [
+                "detail": [
                     "Paul Franklin",
                     "Andrew Lockley",
                     "Ian Hunter",
                     "Scott Fisher"
                 ],
                 "image": "",
-                "detail": "Interstellar",
+                "title": "Interstellar",
                 "imdb": [
                     "http://www.imdb.com/name/nm0291518/",
                     "http://www.imdb.com/name/nm0516916/",
@@ -1041,14 +1041,14 @@
                 ]
             },
             {
-                "title": [
+                "detail": [
                     "Richard Stammers",
                     "Lou Pecora",
                     "Tim Crosbie",
                     "Cameron Waldbauer"
                 ],
                 "image": "",
-                "detail": "X-Men: Days of Future Past",
+                "title": "X-Men: Days of Future Past",
                 "imdb": [
                     "http://www.imdb.com/name/nm0821868/",
                     "http://www.imdb.com/name/nm1022027/",
