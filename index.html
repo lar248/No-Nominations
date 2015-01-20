@@ -16,12 +16,13 @@
 							{{nominees.detail}}
 						</span>
 					</div>
-					<pre>
-						{{$scope.formData.category}}
-					</pre>
+					
 					<br/>
 				</li>
 			</ul>
+			<div>
+				{{formData}}
+			</div>
 			<div>ballot is {{ballot.$valid}}</div>
 			<input type="submit" id="submit" value="Submit" />
 		</form>
