@@ -10,11 +10,10 @@
 			error(function(data) {
 				console.log("error yooo")
 			});
-		//var formData = [];
 		$scope.addNomToForm = function(short, nomination) {
-			var category = {};
-			category.nomination = nomination;
-			category.short = short;
+			this.category = {};
+			this.category.nomination = nomination;
+			this.category.short = short;
 			var index = -1;
 			for (var i=0; i<$scope.formData.length; i++) {
 				if (angular.equals($scope.formData[i].short, short)) {
@@ -22,9 +21,9 @@
 				}
 			}
 			if (index!=-1) {
-				$scope.formData.splice(index, 1, category)
+				$scope.formData.splice(index, 1, this.category)
 			} else {
-				$scope.formData.push(category);
+				$scope.formData.push(this.category);
 			}
 			console.log($scope.formData)
 		};
