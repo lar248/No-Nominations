@@ -4,18 +4,24 @@
 		<link rel="stylesheet" type="text/css" href="bootstrap.min.css">
 		<link rel="stylesheet" type="text/css" href="styles.css">
 	</head>
-	<body ng-controller="NominationsController as nominations">
-		<ul class="list-group">
-			<li ng-repeat="category in nominations">
-				{{category.title}}
-				<div ng-repeat="nominees in category.nominees">
-					<input type="radio" name="{{category.short}}" value="{{nominees.title}}">
-					<a href="{{nominees.imdb}}" target="_blank">{{nominees.title}}</a>
-				</div>
-				<br/>
-				
-			</li>
-		</ul>
+	<body>
+		<form name="ballot" ng-controller="NominationsController as nominations" novalidate> 
+			<ul class="list-group">
+				<li ng-repeat="category in nominations">
+					{{category.title}}
+					<div ng-repeat="nominees in category.nominees">
+						<input type="radio" name="{{category.short}}" value="{{nominees.title}}" >
+						<a href="{{nominees.imdb}}" target="_blank">{{nominees.title}}</a>
+						<span ng-if="nominees.detail !== ''">
+							{{nominees.detail}}
+						</span>
+					</div>
+					<br/>
+				</li>
+			</ul>
+			<div>ballot is {{ballot.$valid}}</div>
+			<input type="submit" id="submit" value="Submit" />
+		</form>
 		<script type="text/javascript" src="angular.min.js"></script>
 		<script type="text/javascript" src="app.js"></script>
 	</body>
