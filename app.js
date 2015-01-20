@@ -4,30 +4,29 @@
 		$http.get('oscars_2015.json').
 			success(function(data) {
 				$scope.nominations = data;
+				$scope.formData = [];
 				console.log("noms:", $scope.nominations)
 			}).
 			error(function(data) {
 				console.log("error yooo")
 			});
-		//$scope.formData = [];
-		var formData = [];
-		console.log("yo")
+		//var formData = [];
 		$scope.addNomToForm = function(short, nomination) {
 			var category = {};
 			category.nomination = nomination;
 			category.short = short;
 			var index = -1;
-			for (var i=0; i<formData.length; i++) {
-				if (angular.equals(formData[i].short, short)) {
+			for (var i=0; i<$scope.formData.length; i++) {
+				if (angular.equals($scope.formData[i].short, short)) {
 					index = i;
 				}
 			}
 			if (index!=-1) {
-				formData.splice(index, 1, category)
+				$scope.formData.splice(index, 1, category)
 			} else {
-				formData.push(category);
+				$scope.formData.push(category);
 			}
-			console.log(formData)
+			console.log($scope.formData)
 		};
 	});
 })();
