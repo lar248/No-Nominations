@@ -10,12 +10,15 @@
 				<li ng-repeat="category in nominations">
 					{{category.title}}
 					<div ng-repeat="nominees in category.nominees">
-						<input type="radio" name="{{category.short}}" value="{{nominees.title}}" >
+						<input type="radio" name="{{category.short}}" value="{{nominees.title}}" ng-click="addNomToForm(category.short, nominees.title)">
 						<a href="{{nominees.imdb}}" target="_blank">{{nominees.title}}</a>
 						<span ng-if="nominees.detail !== ''">
 							{{nominees.detail}}
 						</span>
 					</div>
+					<pre>
+						{{formData.nominees.title}}
+					</pre>
 					<br/>
 				</li>
 			</ul>
