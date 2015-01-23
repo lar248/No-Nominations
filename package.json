@@ -1,0 +1,26 @@
+{
+  "name": "No-Nominations",
+  "version": "1.0.0",
+  "description": "Oscar Nominations Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lar248/No-Nominations.git"
+  },
+  "author": "Laurence Rosenzweig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lar248/No-Nominations/issues"
+  },
+  "homepage": "https://github.com/lar248/No-Nominations",
+  "dependencies" : {
+    "express" : "~4.11",
+    "mongoose" : "~3.8",
+    "morgan" : "~1.5",
+    "body-parser" : "~1.10",
+    "method-override" : "~2.3"
+  }
+}
