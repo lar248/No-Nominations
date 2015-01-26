@@ -12,22 +12,22 @@ angular.module('nominations', ['ngRoute', 'NominationsController', 'NominationsS
 // 			error(function(data) {
 // 				console.log("error yooo")
 // 			});
-// 		$scope.addNomToForm = function(short, nomination) {
-// 			this.category = {};
-// 			this.category.nomination = nomination;
-// 			this.category.short = short;
-// 			var index = -1;
-// 			for (var i=0; i<$scope.formData.length; i++) {
-// 				if (angular.equals($scope.formData[i].short, short)) {
-// 					index = i;
-// 				}
-// 			}
-// 			if (index!=-1) {
-// 				$scope.formData.splice(index, 1, this.category)
-// 			} else {
-// 				$scope.formData.push(this.category);
-// 			}
-// 			console.log($scope.formData)
-// 		};
+		// $scope.addNomToForm = function(short, nomination) {
+		// 	this.category = {};
+		// 	this.category.nomination = nomination;
+		// 	this.category.short = short;
+		// 	var index = -1;
+		// 	for (var i=0; i<$scope.formData.length; i++) {
+		// 		if (angular.equals($scope.formData[i].short, short)) {
+		// 			index = i;
+		// 		}
+		// 	}
+		// 	if (index!=-1) {
+		// 		$scope.formData.splice(index, 1, this.category)
+		// 	} else {
+		// 		$scope.formData.push(this.category);
+		// 	}
+		// 	console.log($scope.formData)
+		// };
 // 	});
 // })();
