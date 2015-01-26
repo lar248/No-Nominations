@@ -12,14 +12,19 @@ function getBallots(res) {
 
 module.exports = function(app) {
 	// API ----
-	//get all ballots
+	// get all ballots
+	app.get('/api/ballots', function(req, res) {
+		//use mongoose to get all ballots in database
+		getBallots(res);
+	});
 
-	//creat ballot and send back all ballots after creation
-	app.post('/api/ballots', function(res, req) {
+	// create ballot and send back all ballots after creation
+	app.post('/api/ballots', function(req, res) {
 
 		//create a ballot, information comes from AJAX request from Angular
 		Ballot.create({
-			picks: //NOT SURE WHAT TO PUT HERE
+			picks: req.body.picks,
+			done: false
 		}, function(err, ballot) {
 			if (err) {
 				res.send(err);
@@ -28,5 +33,10 @@ module.exports = function(app) {
 			getBallots(res);
 		});
 
+	});
+
+	// APPLICATION -----------
+	app.get('/', function(req, res) {
+		res.sendfile('./public/index.html'); // load the single view file (angular will handle the page changes on the front-end)
 	});
 };
