@@ -1,4 +1,4 @@
-angular.module('nominations', ['NominationsController', 'NominationsService']);
+angular.module('nominations', ['ngRoute', 'NominationsController', 'NominationsService']);
 
 // (function() {
 // 	var app = angular.module('nominations', []);

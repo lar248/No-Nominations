@@ -3,7 +3,7 @@ angular.module('NominationsController', [])
 	.controller('MainController', ['$scope', '$http', 'Ballots', function($scope, $http, Ballots) {
 		$scope.formData = [];
 		$scope.loading = true;
-		$http.get('../data/oscars_2015.json').
+		$http.get('../../data/oscars_2015.json').
 			success(function(data) {
 				$scope.nominations = data;
 				console.log("noms:", $scope.nominations)
