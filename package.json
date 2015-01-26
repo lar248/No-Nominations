@@ -21,6 +21,10 @@
     "mongoose" : "~3.8",
     "morgan" : "~1.5",
     "body-parser" : "~1.10",
-    "method-override" : "~2.3"
+    "method-override" : "~2.3",
+    "better-js-class": "*",
+    "cps": "*",
+    "mysql": "*",
+    "underscore": "*"
   }
 }
