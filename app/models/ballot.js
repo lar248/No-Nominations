@@ -1,5 +1,5 @@
 var mongoose = require('mongoose');
 
 module.exports = mongoose.model('Ballot', {
-	picks: {type : String, default: ''}
+	picks: {type : Array, default: ''}
 });

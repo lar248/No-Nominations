@@ -20,10 +20,10 @@ module.exports = function(app) {
 
 	// create ballot and send back all ballots after creation
 	app.post('/api/ballots', function(req, res) {
-		console.log("req.body.picks: ", req.body.picks)
+		console.log("req.body: ", req.body)
 		//create a ballot, information comes from AJAX request from Angular
 		Ballot.create({
-			picks: req.body.picks,
+			picks: req.body,
 			done: false
 		}, function(err, ballot) {
 			if (err) {
