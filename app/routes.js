@@ -30,8 +30,10 @@ module.exports = function(app) {
 				res.send(err);
 			}
 			//get and return all ballots after you create another
-			getBallots(res);
+			//getBallots(res);
+
 		});
+		res.redirect('/my.html');
 
 	});
 

@@ -14,6 +14,8 @@
 			<ul class="list-group">
 				<li ng-repeat="category in nominations">
 					{{category.title}}
+					<br/>
+					<div class="edit">Edit</div>
 					<div ng-repeat="nominees in category.nominees">
 						<input type="radio" name="{{category.short}}" value="{{nominees.title}}" ng-click="addNomToForm(category.short, nominees.title)">
 						<a href="{{nominees.imdb}}" target="_blank">{{nominees.title}}</a>
