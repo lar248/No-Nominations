@@ -11,6 +11,7 @@
 						width: 600,
 						modal: true,
 						open: function(event) {
+							$('.ui-dialog-title').html($(categoryNoms).children("input").attr("name"));
 							var heading = document.createElement("tr");
 							var movie = "<th>Movie</th>";
 							var detail = "<th>Details</th>";
