@@ -7,7 +7,7 @@
 	<body>
 		<form name="ballot" ng-controller="MainController as nominations" novalidate> 
 			<ul class="list-group">
-				<li ng-repeat="category in nominations">
+				<li ng-repeat="category in nominations" class="{{category.short}}">
 					{{category.title}}
 					<br/>
 					<div class="edit" edit-category>Edit</div>
