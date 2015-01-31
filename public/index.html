@@ -5,6 +5,8 @@
 		<link rel="stylesheet" type="text/css" href="styles.css">
 	</head>
 	<body>
+		<a href="/login" class="btn btn-default"><span class="fa fa-user"></span> Local Login</a>
+        <a href="/signup" class="btn btn-default"><span class="fa fa-user"></span> Local Signup</a>
 		<form name="ballot" ng-controller="MainController as nominations" novalidate> 
 			<ul class="list-group">
 				<li ng-repeat="category in nominations" class="{{category.short}}">
