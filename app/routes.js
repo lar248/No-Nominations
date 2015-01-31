@@ -21,7 +21,7 @@ function isLoggedIn(req, res, next) {
     res.redirect('/');
 }
 
-module.exports = function(app) {
+module.exports = function(app, passport) {
 	// API ----
 	// =====================================
     // LOGIN ===============================
@@ -47,8 +47,11 @@ module.exports = function(app) {
     });
 
     // process the signup form
-    // app.post('/signup', do all our passport stuff here);
-
+    app.post('/signup', passport.authenticate('local-signup', {
+        successRedirect : '/profile', // redirect to the secure profile section
+        failureRedirect : '/signup', // redirect back to the signup page if there is an error
+        failureFlash : true // allow flash messages
+    }));
     // =====================================
     // PROFILE SECTION =====================
     // =====================================
@@ -91,7 +94,6 @@ module.exports = function(app) {
 			//getBallots(res);
 
 		});
-		res.redirect('/my.html');
 
 	});
 

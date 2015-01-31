@@ -40,7 +40,7 @@ app.get('/users', function (req, res) {
 });
 */
 
-// require('./config/passport')(passport); // pass passport for configuration
+require('./config/passport')(passport); // pass passport for configuration
 
 // CONFIGURATION
 // required for express
@@ -67,11 +67,6 @@ app.use(flash()); // use connect-flash for flash messages stored in session
 
 // ROUTES
 require('./app/routes.js')(app, passport);
-
-app.get('/hi', function(req, res) {
-	//res.send('hello world yo');
-	res.end('at the end i guess');
-});
 
 app.listen(port);
 console.log("App listening on port " + port);
