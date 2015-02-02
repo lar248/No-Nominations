@@ -5,6 +5,9 @@
 		<link rel="stylesheet" type="text/css" href="styles.css">
 	</head>
 	<body>
+		<p>Login or Register with:</p>
+
+        <a href="/auth/facebook" class="btn btn-primary"><span class="fa fa-facebook"></span> Facebook</a>
 		<a href="/login" class="btn btn-default"><span class="fa fa-user"></span> Local Login</a>
         <a href="/signup" class="btn btn-default"><span class="fa fa-user"></span> Local Signup</a>
 		<form name="ballot" ng-controller="MainController as nominations" novalidate> 
@@ -36,17 +39,6 @@
 		  <p class="validateTips">All form fields are required.</p>
 		 
 		  <form id="modal">
-		    <!--<fieldset>
-		      <label for="name">Movie</label>
-		      <input type="text" name="name" id="name" value="Jane Smith" class="text ui-widget-content ui-corner-all"><br/>
-		      <label for="email">Detail</label>
-		      <input type="text" name="email" id="email" value="jane@smith.com" class="text ui-widget-content ui-corner-all"><br/>
-		      <label for="password">IMDB Link</label>
-		      <input type="password" name="password" id="password" value="xxxxxxx" class="text ui-widget-content ui-corner-all">
-		 
-		      Allow form submission with keyboard without duplicating the dialog button 
-		      <input type="submit" tabindex="-1" style="position:absolute; top:-1000px">
-		    </fieldset>-->
 		  </form>
 		</div>
 		
